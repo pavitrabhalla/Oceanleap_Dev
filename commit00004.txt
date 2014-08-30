@@ -1,0 +1,1 @@
+Application registration and user registration working with new schema
