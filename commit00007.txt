@@ -1,0 +1,1 @@
+Users, devices, challenges, fb_connect, notifications, feedback, settings working with new architecture
