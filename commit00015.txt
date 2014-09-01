@@ -1,0 +1,1 @@
+Fix for accept-invite API
