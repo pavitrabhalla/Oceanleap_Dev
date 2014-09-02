@@ -1,0 +1,1 @@
+Reserved indexes for measurement types and filtered them out of Global list
