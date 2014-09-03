@@ -1,0 +1,1 @@
+1. Bug fix on avatars. 2. Bug fix for push notifications subscribe
