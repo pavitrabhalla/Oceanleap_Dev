@@ -1,0 +1,1 @@
+User logout changed to POST from GET
