@@ -1,0 +1,1 @@
+1. Added handedness to user object. 2. Api to logout
