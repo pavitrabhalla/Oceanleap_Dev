@@ -1,0 +1,1 @@
+timezone_compulsory_with_migrations
