@@ -1,0 +1,1 @@
+Ability to ask for another user's activity stats
