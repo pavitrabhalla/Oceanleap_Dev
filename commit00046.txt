@@ -1,0 +1,1 @@
+Bugfix: timezone getting reset on user subscribe
