@@ -1,0 +1,1 @@
+Added POST as an allowed method for leaderboard and activity-stat APIs
