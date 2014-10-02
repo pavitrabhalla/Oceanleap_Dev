@@ -1,0 +1,1 @@
+1. App notification settings table. 2. Get settings API. 3. peer to peer notifications API
