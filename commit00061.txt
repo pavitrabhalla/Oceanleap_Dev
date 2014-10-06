@@ -1,0 +1,1 @@
+Status codes applied to user registration, user login and activity post
