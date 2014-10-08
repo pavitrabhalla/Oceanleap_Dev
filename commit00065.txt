@@ -1,0 +1,1 @@
+1. Added validation to all user attributes on register. 2. Fixed the issue with subscribe to delete existing devices. 3. Measurement to take string on activity POST. 4. Added more checks on activity data post
