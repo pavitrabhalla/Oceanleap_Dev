@@ -1,0 +1,1 @@
+Changes to update_user API to take avatar as part of update
