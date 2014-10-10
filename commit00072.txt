@@ -1,0 +1,1 @@
+Authorization match for app and user to be under same tenant: All APIs
