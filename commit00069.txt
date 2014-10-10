@@ -1,0 +1,1 @@
+Username check moved before others on registration
