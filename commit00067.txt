@@ -1,0 +1,1 @@
+1. Email exists error code and checking username, password and timezone before everything else on registration. 2. App Notification Settings creation at the time of cert register.
