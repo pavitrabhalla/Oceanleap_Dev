@@ -1,0 +1,1 @@
+Delete existing endpoints for APNS for user at logout
