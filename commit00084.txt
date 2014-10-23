@@ -1,0 +1,1 @@
+1. Challenge avatar bug fix. 2. List of domain users. 3. Update to user registration API to add to groups
