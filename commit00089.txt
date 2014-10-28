@@ -1,0 +1,1 @@
+Added schema to map user to applications. Added API to get a list of all users for an application
