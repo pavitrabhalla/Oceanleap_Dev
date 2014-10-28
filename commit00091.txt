@@ -1,0 +1,1 @@
+Bug fix for invite notification objects creation
