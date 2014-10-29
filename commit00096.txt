@@ -1,0 +1,1 @@
+Bug fix on notifications triggered from accepting a challenge invite
