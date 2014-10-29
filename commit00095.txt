@@ -1,0 +1,1 @@
+Bug fix - 404 error on accept-invite
