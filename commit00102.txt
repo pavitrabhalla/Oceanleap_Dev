@@ -1,0 +1,1 @@
+Added system_challenge_rank as a valid measurement for activity_stats
