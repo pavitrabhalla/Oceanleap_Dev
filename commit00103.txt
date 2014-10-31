@@ -1,0 +1,1 @@
+Bugfix: Avatar to show up on notifications
