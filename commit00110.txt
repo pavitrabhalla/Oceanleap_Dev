@@ -1,0 +1,1 @@
+Auto challenge creation at user registration
