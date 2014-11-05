@@ -1,0 +1,1 @@
+Ability to call leaderboard API from a cronjob with a specific App id
