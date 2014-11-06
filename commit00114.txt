@@ -1,0 +1,1 @@
+Comparing ranks for each user in two leaderboards for cronjob
