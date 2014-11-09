@@ -1,0 +1,1 @@
+Exclude self from global app list
