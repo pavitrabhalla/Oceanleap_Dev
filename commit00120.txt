@@ -1,0 +1,1 @@
+Adding user to application mapping on facebook_connect
