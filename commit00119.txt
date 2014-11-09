@@ -1,0 +1,1 @@
+Bug fix on leaderboard filter users by group_name
