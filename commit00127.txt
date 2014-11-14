@@ -1,0 +1,1 @@
+Changing celery settings to execute cronjobs properly
